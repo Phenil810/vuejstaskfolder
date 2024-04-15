@@ -1,24 +1,38 @@
-# GScommunity-Frontend
+# Vue 3 Composition CRUD with API Call
+#### Note:- I have created Fake API using json-server package
+##### This Repo has Two Branches:- vue3-comp-crud-api-ui and master
+##### vue3-comp-crud-api-ui branch contains UI Code only
+##### master branch contains UI + API Call
 
-## Project setup
-```
+### Watch Video Tutorial: Coming Soon
+
+### Install All Required Packages
+
+```sh
 npm install
+
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+### Install Json Server 
+
+```sh
+npm install -g json-server
+
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+### Run Project
+
+```sh
+npm run dev
 ```
 
-### Lints and fixes files
-```
-npm run lint
+### Start Json Server
+
+```sh
+json-server --watch db.json --port 3333
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project Screenshots
+![alt text](https://github.com/geekyshow1/vue3-comp-crud-api/blob/master/screenshots/1.JPG)
+![alt text](https://github.com/geekyshow1/vue3-comp-crud-api/blob/master/screenshots/2.JPG)
+![alt text](https://github.com/geekyshow1/vue3-comp-crud-api/blob/master/screenshots/3.JPG)
