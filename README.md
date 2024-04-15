@@ -32,7 +32,4 @@ npm run dev
 json-server --watch db.json --port 3333
 ```
 
-### Project Screenshots
-![alt text](https://github.com/geekyshow1/vue3-comp-crud-api/blob/master/screenshots/1.JPG)
-![alt text](https://github.com/geekyshow1/vue3-comp-crud-api/blob/master/screenshots/2.JPG)
-![alt text](https://github.com/geekyshow1/vue3-comp-crud-api/blob/master/screenshots/3.JPG)
+
